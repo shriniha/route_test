@@ -78,7 +78,7 @@ def fee_details():
         # Show the total amount of fees collected
         st.markdown(f'Total Remaining Fees : Rupees {total_remaining_fees}')
         
-        st.markdown('Thank you for using our app')
+    
 
 
 
